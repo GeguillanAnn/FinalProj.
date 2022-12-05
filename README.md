@@ -1,3 +1,3 @@
 # FinalProj.
 1st. Sem. Final Project.(Ordering System)
- CONGRATS, MAG GAWA NA KAYO NG INYO
+ Unfortunately the code coudn't run using VS code, so we're using cmd (command promt) to execute the program.
